@@ -1,1 +1,3 @@
-print("hello world")
+
+print("你好世界")
+print("删除了你好世界")
